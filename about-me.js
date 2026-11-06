@@ -3,6 +3,7 @@ and a little about mysely */
 "use strict";
 // this is an introduction to the student to understand better
 console.log("My name, is Lade");
+"use strict";
 console.log("Age, 27");
 console.log("Height: 164cm");
 // this section is for to to see my work life
