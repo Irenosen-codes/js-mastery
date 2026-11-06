@@ -1,5 +1,5 @@
-/* This is the Services file that prints details about services offered
-as motion designer */
+/* Services provided offers all clients 
+insight on what the design can offfer to their business, which helps them decides hat works for their projects */
 "use strict";
 
 // Client opten rely on an editor that can create ideas and scripts because it save times and money
