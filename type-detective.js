@@ -20,7 +20,7 @@ console.log("9:", typeof NaN); // predited : right
 
 console.log("10:", typeof "false"); // predited : right
 
-console.log("11:", typeof ""); // predited : wrong 
+console.log("11:", typeof ""); // WRONG: actually this is a string because of ""
 
 let deliveryDate;
 console.log("12:", typeof deliveryDate); // predited : right
