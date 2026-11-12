@@ -29,7 +29,7 @@ console.log(null === undefined); // prediction:false
 
 console.log(null >= 0); // prediction:true
 
-console.log("Zebra" < "apple"); // prediction:true
+console.log("Zebra" < "Apple"); // prediction: false
 
 console.log("15" > 9); // prediction: true
 
